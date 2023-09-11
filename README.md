@@ -42,4 +42,3 @@ Additional Outputs
 ------------------
 ![Output1](/screenshots/output1.png)
 ![Output2](/screenshots/output2.png)
-
